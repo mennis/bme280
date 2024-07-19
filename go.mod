@@ -1,4 +1,5 @@
 module github.com/mennis/bme280
+
 go 1.22.3
 
 require (
